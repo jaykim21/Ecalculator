@@ -5,6 +5,10 @@
     font-family: sans-serif;
 }
 
+body {
+    background-color: rgb(3, 3, 53);
+}
+
 .app {
     display: flex;
     justify-content: center;
@@ -37,6 +41,7 @@
 .display .input {
     font-size: 1.25rem;
     margin-bottom: 0.5rem;
+    
 }
 
 .display .output {
